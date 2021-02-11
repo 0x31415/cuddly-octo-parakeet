@@ -1,2 +1,2 @@
 # cuddly-octo-parakeet
-config file
+This rep contains used configs, mostly Vim.
